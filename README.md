@@ -34,7 +34,6 @@ xcos-block-assessment/
 │   ├── images/
 │   ├── saturation_block.md
 │   └── wma_block.md 
-└── README.md
 ```
 
 ## 🚀 Getting Started
