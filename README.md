@@ -31,9 +31,9 @@ scilab-xcos-assessment-FOSSEE-2024/
 ├── tests/
 │   └── block_tests.sce
 ├── docs/
-│   ├── images/
-│   ├── saturation_block.md
-│   └── wma_block.md 
+    ├── images/
+    ├── saturation_block.md
+    └── wma_block.md 
 ```
 
 ## 🚀 Getting Started
