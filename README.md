@@ -139,7 +139,7 @@ Common issues and solutions:
 ## 📧 Contact
 
 Project Link: [https://github.com/Monish-Alavalapati/scilab-xcos-assessment-FOSSEE-2024](https://github.com/Monish-Alavalapati/scilab-xcos-assessment-FOSSEE-2024)
-
+E-mail : monishalavalapati@gmail.com
 ---
 
 <div align="center">
