@@ -14,7 +14,7 @@ A comprehensive implementation demonstrating custom block development in Xcos/Sc
 ## 📁 Repository Structure
 
 ```
-xcos-block-assessment/
+scilab-xcos-assessment-FOSSEE-2024/
 ├── src/
 │   ├── blocks/
 │   │   ├── wma/
